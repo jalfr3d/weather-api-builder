@@ -24,7 +24,7 @@ The Weather API Builder is a Flask web application that allows users to access h
 
 3. Download the weather station data files and store them in the `data_small` folder.
 
-4. Run the Flask application by executing `python your_app.py` in the command line.
+4. Run the Flask application by executing `python main.py` in the command line.
 
 5. Access the API using the following endpoints:
 
