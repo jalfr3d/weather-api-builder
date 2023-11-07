@@ -48,6 +48,10 @@ The Weather API Builder is a Flask web application that allows users to access h
 
 - Weather station data files stored in the `data_small` folder.
 
+## License
+
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
+
 ## Notes
 
 - The project provides a simple way to access temperature data from various weather stations. You can expand its functionality by adding more endpoints or custom features.
